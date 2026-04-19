@@ -4,16 +4,12 @@ A modern, glassmorphism-styled frontend prototype for visually designing, valida
 
 ## Demo Preview
 
-> Replace these placeholder paths with your real screenshots/GIFs (for example in `docs/media/`).
-
-### Workflow Builder GIF
-
-![Workflow Builder Demo](docs/media/workflow-builder-demo.gif)
-
 ### UI Snapshots
 
 ![Canvas Overview](docs/media/canvas%20overview.png)
+
 ![Node Config Panel](docs/media/Task%20node%20config.png)
+
 ![Simulation Logs](docs/media/simulation%20logs.png)
 
 ## Objective
