@@ -12,9 +12,9 @@ A modern, glassmorphism-styled frontend prototype for visually designing, valida
 
 ### UI Snapshots
 
-![Canvas Overview](docs/media/canvas-overview.png)
-![Node Config Panel](docs/media/node-config-panel.png)
-![Simulation Logs](docs/media/simulation-logs.png)
+![Canvas Overview](docs/media/canvas%20overview.png)
+![Node Config Panel](docs/media/Task%20node%20config.png)
+![Simulation Logs](docs/media/simulation%20logs.png)
 
 ## Objective
 
